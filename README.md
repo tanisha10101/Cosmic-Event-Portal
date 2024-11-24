@@ -49,7 +49,10 @@ The primary goal of the Cosmic Events Portal is to provide an all-in-one solutio
 ## Technologies Used
   - Figma (for design and UI/UX planning)
 
-![Uploading Screenshot 2024-11-24 at 8.11.40 PM.png…]()
+![image alt](https://github.com/tanisha10101/Cosmic-Event-Portal/blob/f88f0670d04f47e6d54fcd9969e8ac649545f5fc/01.png)
+![image alt](https://github.com/tanisha10101/Cosmic-Event-Portal/blob/f88f0670d04f47e6d54fcd9969e8ac649545f5fc/02.png)
+![image alt](https://github.com/tanisha10101/Cosmic-Event-Portal/blob/f88f0670d04f47e6d54fcd9969e8ac649545f5fc/03.png)
+
 
 ## Usage
 
