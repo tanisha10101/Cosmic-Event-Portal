@@ -44,7 +44,8 @@ The primary goal of the Cosmic Events Portal is to provide an all-in-one solutio
    - **Attendees:** View registered events, manage preferences, and receive tailored recommendations.
 
 
-## Figma Link: https://www.figma.com/proto/rYRAqwGtg8KqjKir8Eexgi/TECH-TITANS?node-id=69-132&scaling=scale-down&page-id=0%3A1&starting-point-node-id=69%3A132&show-proto-sidebar=1
+## Figma Link: 
+https://www.figma.com/proto/rYRAqwGtg8KqjKir8Eexgi/TECH-TITANS?node-id=69-132&scaling=scale-down&page-id=0%3A1&starting-point-node-id=69%3A132&show-proto-sidebar=1
 
 ## Technologies Used
   - Figma (for design and UI/UX planning)
